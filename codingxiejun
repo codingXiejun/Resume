@@ -1,0 +1,53 @@
+<head> 
+   <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> 
+   <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script> 
+</head> 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
+<style type="text/css">
+body {
+   font-family: "微软雅黑";
+}
+</style>
+# 谢军\Jun Xie
+
+## 个人信息
+* 男/1997/湖南衡阳
+* 本科/青岛工学院/计算机科学与技术
+* 博客/[https://codingxiejun.cn](https://codingxiejun.cn)
+* 期望职位/Java后端开发相关
+* 期望薪资/4K~6K
+## 联系方式
+* <i class="fa fa-envelope"></i>	xj921361215@foxmail.com
+* <i class="fa fa-phone"></i>	17607670218
+* <i class="fa fa-weixin"></i>	921361215
+* <i class="fa fa-map-marker"></i>	深圳市南山区前海路诺德假日花园
+## 个人技能
+* 前端/H5/Bootstrap/EasyUi
+* 框架/Spring/SpringMVC/Mybatis
+* 微服务/SpringBoot
+* 数据库/Mysql/Redis
+* 其他/JVM内存模型/Synchronized关键字/Socket
+## 工作经验
+### 深圳市森世泰科技有限公司
+* 职位/Java开发实习生
+* 工作时长/5个月
+* 工作内容
+ 1. [**Java GUI**](https://github.com/codingXiejun/Chart.git)：负责开发一个exe程序，功能为读取excel表各列数据，并且实时生成动态图表，
+ 2. 微信小程序：负责开发公司简介小程序，功能包括基本信息、产品介绍、客服助理和公司新闻。
+ 3. 其他工作：简单的单片机开发、辅助开发上位机的逻辑处理板块以及工作文档的处理。
+## 项目经验
+### [Mail System](https://github.com/codingXiejun/MailSystem.git)
+
+### [Employee Managerment System](https://github.com/codingXiejun/EmployeeManagermentSystem.git)
+* 前端/Jsp+easyUi+EL
+* 框架/Spring+SpringMVC+Mybatis
+* 数据库/mysql+dbcp
+### [MiniBank](https://github.com/codingXiejun/MiniBank.git)
+* 前端/Jsp+Bootstrap
+* 框架/Spring+SpringMVC+Mybatis
+* 数据库/mysql+dbcp
+
+<footer style="text-align:center;">
+<div><i class="fa fa-copyright"></i>2018<i class="fa fa-heart"></i>codingxiejun</div>
+<div>Designed By <a href="http://markdownpad.com/">**MarkdownPad**</a> | Icon By <a href="http://www.fontawesome.com.cn/">**FontAwesome**</a><div>
+</footer>
